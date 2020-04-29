@@ -1,5 +1,15 @@
 # gitmoji
-This short git codes help you to see what a commit is about.
+This short emoji git codes help you and others to see what a commit is about (semantically).
+It makes your commit more tangible for outsiders and also reviewers.
+
+## Example
+```
+:bug: fix namespace issues in user controller
+```
+or
+```
+:lipstick: relocate elements on signup page
+```
 
 ## Codes
 
