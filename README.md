@@ -20,6 +20,8 @@ or
 :banana:, `:banana:` = experimental stage (be careful)  
 :wrench:, `:wrench:` = changing configuration files   
 :recycle:, `:recycle:` = Refactoring  
+:art:, `:art:` = linting / code formatting  
+:loud_sound:, `:loud_sound:` = changed logging  
 :pencil:, `:pencil:` = Adding documentation  
 :round_pushpin:, `:round_pushpin:` = Changes to I18n (wording & functionality)  
 :floppy_disk:, `:floppy_disk:` = Changes to database or migrations
