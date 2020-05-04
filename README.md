@@ -20,6 +20,7 @@ or
 :banana:, `:banana:` = experimental stage (be careful)  
 :wrench:, `:wrench:` = changing configuration files   
 :recycle:, `:recycle:` = Refactoring  
+:pizza:, `:pizza:` = Writing Tests  
 :art:, `:art:` = linting / code formatting  
 :loud_sound:, `:loud_sound:` = changed logging  
 :pencil:, `:pencil:` = Adding documentation  
