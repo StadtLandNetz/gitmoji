@@ -15,8 +15,10 @@ or
 
 ### Coding
 :bug:, `:bug:` = fixing bugs  
+:shit:, `:shit:` = fixing bugs in legacy code
 :fire:, `:fire:` = critical bug, security path   
 :sparkles:, `:sparkles:` = new features (be careful)  
+:beer:, `:beer:` = changes for developer convenience
 :banana:, `:banana:` = experimental stage (be careful)  
 :wrench:, `:wrench:` = changing configuration files   
 :recycle:, `:recycle:` = Refactoring  
@@ -34,7 +36,9 @@ or
 :lipstick:, `:lipstick:` = improving UI and style  
 
 ### Infrastructure
-:construction_worker:, `:construction_worker:` = Work related to infrastructure or CI-Pipeline
+:loop:, `:loop:` = Work related to infrastructure or CI/CD-Pipeline
+:ship:, `:ship:` = Work at server and kubernetes
+
 
 
 
