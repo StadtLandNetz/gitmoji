@@ -36,7 +36,7 @@ or
 :lipstick:, `:lipstick:` = improving UI and style  
 
 ### Infrastructure
-:loop:, `:loop:` = Work related to infrastructure or CI/CD-Pipeline 
+:loop:, `:loop:` = Work related to infrastructure or CI/CD-Pipeline   
 :ship:, `:ship:` = Work at server and kubernetes
 
 
